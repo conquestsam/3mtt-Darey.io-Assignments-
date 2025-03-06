@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adeniyi Adeyemi Samuel - Profile</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to My Profile</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#hobbies">Hobbies & Interests</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr> <!-- Adds a horizontal line for separation -->
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- About Me Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <figure>
+                <img src="https://via.placeholder.com/200" alt="Profile Picture">
+                <figcaption>Adeniyi Adeyemi Samuel</figcaption>
+            </figure>
+            <article>
+                <p>My name is <strong>Adeniyi Adeyemi Samuel</strong>. I am a graduate of <em>Educational Guidance and Counselling</em>. 
+                Currently, I am honored to be part of the prestigious <strong>3MTT Fellowship</strong>, undergoing training as a software developer.</p>
+            </article>
+            <blockquote>
+                <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
+            </blockquote>
+        </section>
+
+        <hr>
+
+        <!-- Hobbies Section -->
+        <section id="hobbies">
+            <h2>Hobbies & Interests</h2>
+            <p>In my free time, I love engaging in the following activities:</p>
+            <ul>
+                <li>📖 Reading</li>
+                <li>✈️ Travelling</li>
+                <li>🔍 Exploring new things</li>
+                <li>⚽ Playing soccer</li>
+                <li>🏃‍♂️ Jogging</li>
+                <li>🎵 Listening to music</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p>If you’d like to reach out to me, feel free to use any of the following contact details:</p>
+            <table border="1">
+                <tr>
+                    <th>Email</th>
+                    <td><a href="mailto:conqueststat@gmail.com">conqueststat@gmail.com</a></td>
+                </tr>
+                <tr>
+                    <th>Phone</th>
+                    <td><a href="tel:+2348061410856">08061410856</a></td>
+                </tr>
+                <tr>
+                    <th>Address</th>
+                    <td>University of Ilorin road, Tanke Oke Odo</td>
+                </tr>
+            </table>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Adeniyi Adeyemi Samuel | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
